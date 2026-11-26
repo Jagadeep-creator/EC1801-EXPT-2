@@ -21,10 +21,12 @@ File name	Purpose
 logic_gates.v	Logic-gate RTL
 logic_gates_tb.v	All input combinations and VCD generation
  # Verilog  Program
-<img width="1892" height="1077" alt="image" src="https://github.com/user-attachments/assets/b7213e2f-b2fd-419f-ac66-e005db32ffd0" />
+<img width="1895" height="1066" alt="Screenshot 2026-11-26 075020" src="https://github.com/user-attachments/assets/11eccffb-6dfd-4592-9a51-88e06d36c4f2" />
+
 
 # **Test Bench Program**
-<img width="1906" height="1070" alt="Screenshot 2026-11-26 075040" src="https://github.com/user-attachments/assets/46fbebfc-e0f4-457e-9105-a63d80f2e9d3" />
+<img width="1906" height="1070" alt="Screenshot 2026-11-26 075040" src="https://github.com/user-attachments/assets/e09ce140-4d15-4b0a-ab63-3c1ef830cb41" />
+
 
 
 
