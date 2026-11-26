@@ -21,8 +21,10 @@ File name	Purpose
 logic_gates.v	Logic-gate RTL
 logic_gates_tb.v	All input combinations and VCD generation
  # Verilog  Program
+<img width="1892" height="1077" alt="image" src="https://github.com/user-attachments/assets/b7213e2f-b2fd-419f-ac66-e005db32ffd0" />
 
 # **Test Bench Program**
+<img width="1906" height="1070" alt="Screenshot 2026-11-26 075040" src="https://github.com/user-attachments/assets/46fbebfc-e0f4-457e-9105-a63d80f2e9d3" />
 
 
 
@@ -82,24 +84,4 @@ Output
 
 
  
-# Viva-Voce Questions
-
-•	What is a logic gate?
-
-•	What are the basic logic gates in digital electronics?
-
-•	What is the Boolean expression for an AND gate? An OR gate? A NOT gate?
-
-•	Why is the NOT gate also called an inverter?
-
-•	What is a universal gate, and how can NAND/NOR realize AND, OR, and NOT?
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated?
-
-•	What is the purpose of ./simv?
-•	What is the purpose of DVE?
-•	What is the difference between simulation and synthesis?
-•	What is the difference between $dumpfile and $dumpvars?
 
